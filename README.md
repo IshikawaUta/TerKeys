@@ -1,6 +1,6 @@
 ![Terkey Termux Key](screenshot.jpg)
 
-# Terkey
+# TermuxKeyS
 Is a tool for add keys to your Termux app.
 
 ## How to install
@@ -8,14 +8,14 @@ Is a tool for add keys to your Termux app.
 * `$ pkg update && pkg upgrade`
 * `$ pkg install python`
 * `$ pkg install git`
-* `$ git clone https://github.com/karjok/terkey`
-* `$ cd terkey`
-* `$ python terkey.py`
+* `$ git clone https://github.com/Eka09/TermuxKeyS`
+* `$ cd TermuxKeyS`
+* `$ python TermuxKeyS.py`
 
 
 Or you can just copy code bellow and paste to your Termux app and of course, press enter !
 
-```pkg update && pkg upgrade;pkg install python git;git clone https://github.com/karjok/terkey;cd terkey;python terkey.py```
+```pkg update && pkg upgrade;pkg install python git;git clone https://github.com/Eka09/TermuxKeyS;cd TermuxKeyS;python TermuxKeyS.py```
 
 ## How to use?
 In latest update, i made this tool with userfriendly interface, so you can follow the menu.
@@ -45,4 +45,4 @@ Hmm.. this menu just contains a little shit about this tool and me
 > Hey, if you think this is very useful, give me star please !
 > Thanks !
 ## Author
-So many information about me in internet, just type ['Karjok Pangesty'](https://t.me/om_karjok) in your browser !
+So many information about me in internet, just type ['Eka09'] in your browser !
