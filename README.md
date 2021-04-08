@@ -1,4 +1,4 @@
-![Terkey Termux Key](screenshot.jpg)
+![Terkey Termux Key](screenshot.png)
 
 # TermuxKeyS
 Is a tool for add keys to your Termux app.
